@@ -1,0 +1,10 @@
+.App-Header{
+  background-color:rgb(194, 154, 101);
+  display:flex;
+  justify-content: space-between;
+  padding:10px;
+}
+.App-Header li{
+    display: inline-block;
+    padding: 5px;
+}
