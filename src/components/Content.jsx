@@ -33,6 +33,7 @@ function Content() {
           <h3>{product.name}</h3>
           <p>{product.desc}</p>
           <p>{product.price}</p>
+          <p>{product.rating}</p>
           <p><button>Add TO cart
             </button></p>
 
